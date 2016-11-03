@@ -23,3 +23,7 @@ class sgds(object):
                 if np.abs(self.one(i)) > 1e-9:
                     self.w[i] = self.w[i] - lamda * self.one(i)
         return self.w
+
+
+
+

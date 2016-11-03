@@ -1,6 +1,7 @@
 import sgd
 import newton
 import time
+import sgd_logistic
 import pylab as pl
 import numpy as np
 
